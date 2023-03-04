@@ -2,8 +2,7 @@
 It contains sample serverless and react application
 
 
-I uploaded whole project as zip because of secuirity mesaures my company not allowing us to use own credentials in our system.
-
+I uploaded whole project as zil
 ----------------------Backend----------------------------------------------------
 And I created node application using aws lambda function and serverless framework.
 
@@ -28,5 +27,5 @@ Functionality:
    
    https://rdmh97sni5.execute-api.us-east-1.amazonaws.com/dev/getPasswords 
    
-   https://rdmh97sni5.execute-api.us-east-1.amazonaws.com/dev/getPassword/2b763028-b0e3-4cd9-8464-9b276ab45470
+   https://rdmh97sni5.execute-api.us-east-1.amazonaws.com/dev/getPassword/{passwordId}
    
