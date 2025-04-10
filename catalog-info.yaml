@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-cat
+  description: backstage.io
+  annotations:
+    github.com/project-slug: 'oaz1cob/oaz1cob'
+spec:
+  type: website
+  lifecycle: production
+  owner: user:guest
